@@ -1,5 +1,5 @@
 # VSCode own folders
-*.vscode
+.vscode/
 
 # Compiled class file
 *.class
