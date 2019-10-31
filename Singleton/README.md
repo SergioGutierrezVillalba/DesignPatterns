@@ -30,7 +30,7 @@ In this repo you have a typical usecase of the Singleton Pattern, ensure that yo
 
 * **Sergio Gutiérrez** - [LinkedIn Profile](https://www.linkedin.com/in/sergiogutierrezvillalba/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/SergioGutierrezVillalba/DesignPatterns/graphs/contributors) who participated in this project.
 
 ## License
 

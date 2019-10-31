@@ -24,7 +24,7 @@ In this repo you have a typical usecase of the Prototype Pattern, where you want
 
 * **Sergio Gutiérrez** - [LinkedIn Profile](https://www.linkedin.com/in/sergiogutierrezvillalba/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/SergioGutierrezVillalba/DesignPatterns/graphs/contributors) who participated in this project.
 
 ## License
 
