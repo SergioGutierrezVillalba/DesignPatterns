@@ -12,7 +12,7 @@ class DatabaseSingleton {
      * Prevents the creation of more than one instance of Database Object
      * @return the dbConnection
      */
-    public Database newDatabase() {
+    public Database getDatabaseInstance() {
 
         if(this.database == null){
             System.out.println("First time i'm existing");
