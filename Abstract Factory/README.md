@@ -6,7 +6,11 @@ This folder contains an example of an Abstract Factory Method Pattern written in
 
 In software engineering, the Abstract Factory pattern is a software design pattern that allows an application to decouple the composition, representation and implementation of its products.
 
+
+
 ![By Giacomo Ritucci - My own work, generated with omondo for eclipse 3.1.2, modified with inkscape., CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Abstract_factory_UML.svg/1280px-Abstract_factory_UML.svg.png)
+
+
 
 The Abstract factory method design pattern solves problems like:
 
